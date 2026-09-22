@@ -17,7 +17,7 @@ Before building the GPT, gather accurate information about Saveetha Engineering 
 Open a web browser and go to chatgpt.com. Sign in using an existing OpenAI account, or create a new one. Make sure the account is upgraded to a ChatGPT Plus, Team, Enterprise, or Edu plan, since the GPT Builder is a paid-plan feature and is not available on the free version.
 ### Step 3: Opening the GPT Builder
 On the left sidebar, click “Explore GPTs” and then click the “+ Create” button (or go directly to chatgpt.com/create). This opens the GPT Builder, which has two tabs: Create and Configure.
-### Step 4: Building the GPT Conversationally (Create Tab)
+### Step 4: Building the GPT Conversationally (Create Tab):
 In the Create tab, type a plain-English description of the required GPT in the message box, for example:
 “Create a GPT for Saveetha Engineering College that answers questions about admissions, courses, fees, placements, and campus facilities in a friendly and professional tone.”
 The Builder chats back and automatically suggests a name, a short description, and a profile picture for the GPT based on this description.
@@ -54,10 +54,10 @@ Click “Publish”/“Update” to finish. Copy the generated link and share it
 ## SAMPLE OUTPUT SCREEN
 The screen below shows a sample conversation with the published “Saveetha Engineering College Assistant” Custom GPT, illustrating how it answers a student's admission query using the uploaded knowledge files.
 </br><img width="545" height="385" alt="image" src="https://github.com/user-attachments/assets/677bee25-a510-48db-824d-4dbb5795d610" /></br>
-## OUTPUT
+## OUTPUT 
 A working Custom GPT named “Saveetha Engineering College Assistant” is created and published. When a user asks questions like “What courses does Saveetha offer?” or “How can I apply for B.Tech admission?”, the GPT replies with accurate information drawn from the uploaded college knowledge files, in a friendly and professional tone.
 ## RESULT
-Thus, a Custom GPT chatbot for Saveetha Engineering College was successfully designed, configured with knowledge files and instructions, tested, and published using OpenAI's GPT
+Thus, a Custom GPT chatbot for Saveetha Engineering College was successfully designed, configured with knowledge files and instructions, tested, and published using OpenAI's GPT.
 Builder.
 
 ## CONCLUSION
