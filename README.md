@@ -17,8 +17,8 @@ Before building the GPT, gather accurate information about Saveetha Engineering 
 Open a web browser and go to chatgpt.com. Sign in using an existing OpenAI account, or create a new one. Make sure the account is upgraded to a ChatGPT Plus, Team, Enterprise, or Edu plan, since the GPT Builder is a paid-plan feature and is not available on the free version.
 ### Step 3: Opening the GPT Builder
 On the left sidebar, click “Explore GPTs” and then click the “+ Create” button (or go directly to chatgpt.com/create). This opens the GPT Builder, which has two tabs: Create and Configure.
-### Step 4: Building the GPT Conversationally (Create Tab)
-In the Create tab, type a plain-English description of the required GPT in the message box, for example:
+### Step 4: Building the GPT Conversationally (Create Tab) 
+In the Create tab, type a plain-English description  of the required GPT in the message box, for example:
 “Create a GPT for Saveetha Engineering College that answers questions about admissions, courses, fees, placements, and campus facilities in a friendly and professional tone.”
 The Builder chats back and automatically suggests a name, a short description, and a profile picture for the GPT based on this description.
 ### Step 5: Fine-Tuning with the Configure Tab
